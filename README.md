@@ -1,6 +1,12 @@
+
 # SimpleAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
+
+[![Maintainability](https://api.codeclimate.com/v1/badges/6c51f1e73bd9913f1c88/maintainability)](https://codeclimate.com/github/jbrach/angular-basics/maintainability)
+
+[![Test Coverage](https://api.codeclimate.com/v1/badges/6c51f1e73bd9913f1c88/test_coverage)](https://codeclimate.com/github/jbrach/angular-basics/test_coverage)
+
 
 ## Development server
 
