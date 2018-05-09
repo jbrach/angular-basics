@@ -1,0 +1,14 @@
+
+<hr>
+
+<input type="text" class="form-control" [(ngModel)]="name">
+<button   class="btn btn-primary"
+[disabled]="name === ''"
+(click)="name = ''" >Reset</button>
+
+
+<p>
+  resetname works! My Name is {{this.name}} and this is the paragraph
+</p>
+
+<hr>
